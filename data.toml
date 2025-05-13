@@ -38,7 +38,6 @@ icon_size = "30px"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/instagram/ffffff"
 title = "Instagram"
-title_color = "#ffffff"
 url = "https://www.instagram.com/vum_faw_uzbekistan"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/youtube/ffffff"
@@ -47,7 +46,6 @@ url = "https://www.youtube.com/@faw_uzbekistan/"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/google/ffffff"
 title = "Сайт"
-title_color = "#ff0000"
 url = "https://faw.uz"
 [[sections.items]]
 title = "Facebook"
