@@ -6,7 +6,7 @@ theme = "light"
 primary_color = "#003b90"
 text_align = "center"
 gtag_id = "G-XLJ81DCZFV"
-base_url = "https://github.com/biloliddinabdujalilov/Mokhirjon"
+base_url = "https://biloliddinabdujalilov.github.io/Mokhirjon"
 
 [[sections]]
 title = "Контакты"
