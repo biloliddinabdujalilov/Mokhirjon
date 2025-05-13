@@ -1,6 +1,5 @@
 name = "Нигматиллаев Мохиржон"
 description = "Менеджер по продажам коммерческой техники в компании VAN UNIVERSAL MOTORS"
-url = "https://www.youtube.com/watch?v=w5lKYynT-DM"
 image = "IMG_1461.webp"
 theme = "light"
 primary_color = "#292c35"
@@ -14,7 +13,7 @@ description = ""
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-embed_url = ""
+embed_url = "https://www.youtube.com/embed/?v=tzYdqMRJntk"
 [[sections.items]]
 title = "Telegram"
 description = "@VUMokhir"
