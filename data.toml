@@ -13,7 +13,7 @@ description = ""
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-embed_url = "https://www.youtube.com/embed/?v=tzYdqMRJntk"
+embed_url = "https://www.youtube.com/embed/v=qT_FhQbVP8Y"
 [[sections.items]]
 title = "Telegram"
 description = "@VUMokhir"
