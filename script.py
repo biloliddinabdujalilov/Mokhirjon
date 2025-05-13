@@ -34,7 +34,7 @@ class Data:
     keywords: Optional[str] = None
     image: Optional[str] = None
     theme: str = "dark"
-    primary_color: str = "#546e7a"
+    primary_color: str = "#ffffff"
     text_align: str = "center"
     gtag_id: Optional[str] = None
 
