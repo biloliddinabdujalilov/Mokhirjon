@@ -26,6 +26,7 @@ url = "https://wa.me/998941111840"
 title = "E-mail"
 description = "monclermc@gmail.com"
 url = "monclermc@gmail.com"
+[[sections.items]]
 title = "Gmail"
 description = "monclermc@gmail.com"
 url = "mailto:monclermc@gmail.com"
