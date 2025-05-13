@@ -50,7 +50,7 @@ def load_data(file_path):
         base_url=raw_data.get("base_url", ""),
         image=raw_data.get("image"),
         theme=raw_data.get("theme", "dark"),
-        primary_color=raw_data.get("primary_color", "#546e7a"),
+        primary_color=raw_data.get("primary_color", "#ffffff"),
         text_align=raw_data.get("text_align", "center"),
         gtag_id=raw_data.get("gtag_id"),
         sections=[
